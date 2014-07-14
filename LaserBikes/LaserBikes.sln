@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserBikes", "LaserBikes\LaserBikes.csproj", "{09C6C34C-E27B-4051-8096-C626A3F975FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C6C34C-E27B-4051-8096-C626A3F975FD}.Debug|x86.ActiveCfg = Debug|x86
+		{09C6C34C-E27B-4051-8096-C626A3F975FD}.Debug|x86.Build.0 = Debug|x86
+		{09C6C34C-E27B-4051-8096-C626A3F975FD}.Release|x86.ActiveCfg = Release|x86
+		{09C6C34C-E27B-4051-8096-C626A3F975FD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
